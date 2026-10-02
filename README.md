@@ -60,36 +60,4 @@ Dashboard Development
 Business Insights
 
 
-## 📸 Dashboard Preview
 
-### Dashboard 1
-
-![Dashboard 1](Dashboard-1.png)
-
-### Dashboard 2
-
-![Dashboard 2](Dashboard-2.png)
-
-### Dashboard 3
-
-![Dashboard 3](Dashboard-3.png)
-
-### Dashboard 4
-
-![Dashboard 4](Dashboard-4.png)
-
-### Dashboard 5
-
-![Dashboard 5](Dashboard-5.png)
-
-### Dashboard 6
-
-![Dashboard 6](Dashboard-6.png)
-
-### Dashboard 7
-
-![Dashboard 7](Dashboard-7.png)
-
-### Dashboard 8
-
-![Dashboard 8](Dashboard-8.png)
